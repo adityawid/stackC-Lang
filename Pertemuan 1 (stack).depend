@@ -42,11 +42,14 @@
 1537190875 source:/media/devjurnal/63360EB26F351A24/bahan ajar/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
 	"header.h"
 
-1537190875 source:/media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
+1537348099 source:/media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
 	"header.h"
 
-1537268478 /media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/header.h
+1537348303 /media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/header.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
+
+1537348066 source:/media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/fungsi.c
+	"header.h"
 

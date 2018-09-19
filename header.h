@@ -12,8 +12,8 @@ typedef int infotype ;
 typedef int address;
 
 typedef struct {
-    infotype T[MaxEl+1];
-    address TOP;
+    int T[MaxEl+1];
+    int TOP;
 }Stack;
 
 #define TOP(K) (K).TOP
