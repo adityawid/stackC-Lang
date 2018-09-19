@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1473903369 source:d:\pertemuan 1 (stack)\main.c
+	"header.h"
+
+1474200340 
+
+1473903105 d:\pertemuan 1 (stack)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1473903118 source:d:\pertemuan 1 (stack)\fungsi.c
+	"header.h"
+
+1474200618 source:f:\udinus\struktur data\pertemuan 1\pertemuan 1 (stack)\fungsi.c
+	"header.h"
+
+1474200630 f:\udinus\struktur data\pertemuan 1\pertemuan 1 (stack)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1474200340 source:f:\udinus\struktur data\pertemuan 1\pertemuan 1 (stack)\main.c
+	"header.h"
+
+1474200617 source:/media/vfxstudio/63360EB26F351A24/VFX/Virus Base/UDINUS/STRUKTUR DATA/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/fungsi.c
+	"header.h"
+
+1474200630 /media/vfxstudio/63360EB26F351A24/VFX/Virus Base/UDINUS/STRUKTUR DATA/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1474200340 source:/media/vfxstudio/63360EB26F351A24/VFX/Virus Base/UDINUS/STRUKTUR DATA/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
+	"header.h"
+
+1537190875 source:/media/devjurnal/63360EB26F351A24/bahan ajar/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/fungsi.c
+	"header.h"
+
+1537190958 /media/devjurnal/63360EB26F351A24/bahan ajar/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1537190875 source:/media/devjurnal/63360EB26F351A24/bahan ajar/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
+	"header.h"
+
+1537190875 source:/media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/main.c
+	"header.h"
+
+1537268478 /media/devjurnal/63360EB26F351A24/bahan ajar/STRDATA/Pertemuan 1/Pertemuan 1 (STACK)/Pertemuan 1 (stack)/header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
