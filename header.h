@@ -21,11 +21,17 @@ typedef struct {
 
 void CreateEmpty(Stack *S) ;
 bool isFull(Stack s);
-void Push (Stack *S, infotype X);
+void Push (Stack *S, int X);
 
-void POP (Stack *S, infotype *X)  ;
+void POP (Stack *S, int *X)  ;
 void PrintStack(Stack S);
 bool isEmpty(Stack s);
+
+
+
+
+
+
 
 
 #endif // HEADER_H_INCLUDED

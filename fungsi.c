@@ -24,10 +24,11 @@ bool isFull(Stack s){
     }
 }
 
-void POP (Stack *S, infotype *X)        /// ambil data teratas TOP >>> TOP turun 1
+void POP (Stack *S, int *X)        /// ambil data teratas TOP >>> TOP turun 1
 {
     if(!isEmpty(*S)){
-        *X = InfoTop(*S);           /// nilai data teratas dimasukan variabel X
+        /// Hapus data yang ada di TOP
+        *X = S->T[S->TOP];           /// nilai data teratas dimasukan variabel X
         TOP(*S)--;
     }else{
         printf("Stack sudah kosong\n");
@@ -45,10 +46,7 @@ void PrintStack(Stack S)             /// cetak stack dari tumpukan paling atas k
 ///    for(int i = 1 ; i<= TOP(S) ; i++){
 ///            printf("| %d |\n", S.T[i]);
 ///    }
-//int jml = 1;
-//if(S.T[i]%2==1){
-//    jml *= S.T[i];
-//}
+
 }
 
 

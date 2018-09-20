@@ -40,9 +40,15 @@ int main()
 //    POP (&Z, &X);
 //    POP (&Z, &X);
 //    POP (&Z, &X);
-//    POP (&Z, &X);
+    POP (&Z, &X);
+    printf("yang di POP : %d", X);
 printf("Stack 2  Setelah POP \n");
     PrintStack(Z);
 
     return 0;
 }
+
+
+
+
+
